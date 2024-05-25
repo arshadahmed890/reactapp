@@ -1,0 +1,94 @@
+
+
+
+
+.html-background {
+    background-image: url('./git.jpg'); /* Update the path as needed */
+    background-size: cover; /* Ensures the image covers the entire element */
+    background-position: center; /* Centers the image */
+    /* background-repeat: no-repeat; */
+    height:100vh; /* Makes the height of the container 100% of the viewport height */
+    width: 100%; /* Ensures the width covers the full viewport width */
+    display: flex; /* Optional: Use flexbox to center content */
+    justify-content: center; /* Optional: Center content horizontally */
+    align-items: center; /* Optional: Center content vertically */
+  }
+
+
+.body_1{
+
+
+        background-image: url();
+    
+    }
+    .myclass-1{
+        /* background-image: url(./git.jpg); */
+
+        color:white;
+        font-size: x-large;
+        font-style:normal;
+        font-family:Verdana, Geneva, Tahoma, sans-serif ;
+        background-image: url(./lap.jpg);
+        background-position: center;
+
+    /* Makes the height of the container 100% of the viewport height */
+       
+    
+    }
+    
+    button:hover{
+        background-color:rgba(0, 0, 255, 0.45);
+        border: none;
+      
+
+        
+    }
+    input{
+        font-size: x-large;
+        border: none;
+        border-radius: 100px;
+    }
+    .myclass-2{
+        /* height:200px; */
+        font-size: small;
+       
+    
+    }
+    
+                                /* i phone 12 pro */
+    /* @media(max-width:767px){
+        .myclass-1{
+            font-size: small;
+        }
+        .search_1{
+            font-size:medium;
+        }
+        
+    }
+    
+    
+    
+    
+    @media(min-width:768){
+    
+        
+        .myclass-1{
+            color:white;
+            font-size: xx-large;
+            font-style:normal;
+            font-family:Verdana, Geneva, Tahoma, sans-serif ;
+            background-image: url(../html_conversion/images/lap.jpg);
+            background-position: center;
+        
+        }
+        button:hover{
+            background-color:rgba(0, 0, 255, 0.45);
+           
+            border: none;
+        }
+        input{
+            font-size: xx-large;
+            border: none;
+            border-radius: 100px;
+        }
+    } */

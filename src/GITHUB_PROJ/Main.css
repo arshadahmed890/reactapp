@@ -1,0 +1,120 @@
+.all_1{
+    background-image: url(./back_3.jpg);
+    height:  700px;
+    padding-top: 50px;
+    
+}
+
+
+.my_cont{
+    /* background-color: blueviolet; */
+    
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+    /* background-image: url(./back_3.jpg); */
+    /* margin:100%; */
+    /* height: 100%; */
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    /* background-image: url(./back_3.jpg); */
+    /* margin-top: 100px; */
+    /* margin-bottom: 600px; */
+}
+.container_css2  > .link{
+    padding: 50px;
+    font-size: 50px;
+    border-radius: 50px;
+  margin: 50px;
+  
+  
+}
+.click-above{
+    background-image: url(./link.jpg);
+   margin-top: 100px;
+    padding: 5px;
+    border-radius: 50px;
+    width: 50%;
+    position: absolute;
+    top: 500px;
+    left: 250px;
+    font-size: 50px;
+   
+       /* Change color every 5 seconds, repeat indefinitely */
+    
+
+}
+
+
+
+ /* i phone */
+
+/* @media(max-width:767px){
+
+.container_css2 > a{
+            
+    margin-top: 20px;
+    padding: 50px;
+    font-size: xx-large;
+
+}
+
+} */
+
+
+                                    /* tab i pad air */
+/* @media (min-width:768px) and (max-width:991px){
+
+.container_css2{
+    display: flex;
+}
+   
+
+    
+  
+} */
+
+        /* galaxy fold */
+/* 
+@media(min-width:280px){
+
+.container_css2 > a{
+    font-size:medium;
+}
+.click-above{
+    top: 400px;
+    left:60px;
+    font-size: medium;
+}
+}    */
+
+                            /* laptop */
+/* 
+@media(min-width:768px){
+  
+.container_css2  > a{
+    padding: 50px;
+    font-size: 50px;
+}
+.click-above{
+    background-image: url(./link.jpg);
+    padding: 5px;
+    border-radius: 50px;
+    width: 50%;
+    position: absolute;
+    top: 500px;
+    left: 250px;
+    font-size: 50px;
+}
+
+}                            
+
+/* nest hub */
+
+/* @media (min-width:1024px){
+.click-above{
+    left: 250px;
+    top: 400px;
+}
+}  */
+
+    
